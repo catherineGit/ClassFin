@@ -1,4 +1,4 @@
-# ClassFin
+# ClassFin3
 ## Who are you? What is your background?
 ### I am Catherine. 
 ![Financial Modeling](./images/finmodel.jpg)
